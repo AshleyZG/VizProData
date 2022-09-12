@@ -1,0 +1,3148 @@
+[
+    {
+        "correct": true, 
+        "count": 7, 
+        "error_vector": [
+            true
+        ], 
+        "id": 1, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 4
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 5, 
+                "phraseID": 5
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 6, 
+                "phraseID": 6
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "15365", 
+            "19740", 
+            "10515", 
+            "6566", 
+            "12499", 
+            "2168", 
+            "19387"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "15365", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            4, 
+            5, 
+            6, 
+            7
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            2, 
+            3
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 6, 
+        "error_vector": [
+            true
+        ], 
+        "id": 2, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                8, 
+                9, 
+                10
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 8, 
+                "phraseID": 8
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 10, 
+                "phraseID": 6
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "22116", 
+            "22825", 
+            "15046", 
+            "5681", 
+            "76", 
+            "21726"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "22116", 
+        "phraseIDs": [
+            1, 
+            3, 
+            6, 
+            7, 
+            8, 
+            9
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 11, 
+        "error_vector": [
+            true
+        ], 
+        "id": 3, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                10, 
+                11
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 11, 
+                "phraseID": 10
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 10, 
+                "phraseID": 6
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "20449", 
+            "9038", 
+            "397", 
+            "8425", 
+            "21058", 
+            "22521", 
+            "10792", 
+            "517", 
+            "23456", 
+            "11245", 
+            "10922"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "20449", 
+        "phraseIDs": [
+            1, 
+            3, 
+            6, 
+            7, 
+            9, 
+            10
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 2, 
+        "error_vector": [
+            true
+        ], 
+        "id": 4, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                4, 
+                9, 
+                16, 
+                17, 
+                18, 
+                19
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 11
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 16, 
+                "phraseID": 12
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 17, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 13
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 18, 
+                "phraseID": 14
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 19, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "21828", 
+            "18444"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "21828", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            7, 
+            11, 
+            12, 
+            13, 
+            14
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            2, 
+            3, 
+            5
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 4, 
+        "error_vector": [
+            true
+        ], 
+        "id": 5, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                20, 
+                21
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 20, 
+                "phraseID": 15
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 21, 
+                "phraseID": 16
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "1804", 
+            "16451", 
+            "20870", 
+            "3191"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "1804", 
+        "phraseIDs": [
+            1, 
+            3, 
+            7, 
+            9, 
+            15, 
+            16
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 6, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                10, 
+                24, 
+                25
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 24, 
+                "phraseID": 17
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 10, 
+                "phraseID": 6
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 25, 
+                "phraseID": 18
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 19
+            }
+        ], 
+        "members": [
+            "16045"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "16045", 
+        "phraseIDs": [
+            1, 
+            3, 
+            6, 
+            9, 
+            17, 
+            18, 
+            19
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4, 
+            6
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 7, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                9, 
+                16, 
+                17, 
+                18, 
+                19, 
+                26
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 26, 
+                "phraseID": 20
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 16, 
+                "phraseID": 12
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 17, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 13
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 18, 
+                "phraseID": 14
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 19, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "11041"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "11041", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            7, 
+            12, 
+            13, 
+            14, 
+            20
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            2, 
+            3, 
+            5
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 28, 
+        "error_vector": [
+            true
+        ], 
+        "id": 8, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                10, 
+                24
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 24, 
+                "phraseID": 17
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 10, 
+                "phraseID": 6
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "18195", 
+            "17309", 
+            "14238", 
+            "20107", 
+            "9686", 
+            "15275", 
+            "1062", 
+            "5061", 
+            "4307", 
+            "13113", 
+            "14853", 
+            "4591", 
+            "6793", 
+            "12977", 
+            "15179", 
+            "23044", 
+            "7915", 
+            "7763", 
+            "9520", 
+            "2567", 
+            "14407", 
+            "20325", 
+            "900", 
+            "22183", 
+            "3882", 
+            "7047", 
+            "210", 
+            "14673"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "18195", 
+        "phraseIDs": [
+            1, 
+            3, 
+            6, 
+            7, 
+            9, 
+            17
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 12, 
+        "error_vector": [
+            true
+        ], 
+        "id": 9, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                10, 
+                20
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 20, 
+                "phraseID": 15
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 10, 
+                "phraseID": 6
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "23679", 
+            "7367", 
+            "18286", 
+            "23198", 
+            "1498", 
+            "19057", 
+            "12917", 
+            "14094", 
+            "619", 
+            "13991", 
+            "22609", 
+            "3652"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "23679", 
+        "phraseIDs": [
+            1, 
+            3, 
+            6, 
+            7, 
+            9, 
+            15
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 10, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                30
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 4
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 5, 
+                "phraseID": 5
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 6, 
+                "phraseID": 6
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 30, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "4698"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "4698", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            4, 
+            5, 
+            6, 
+            7
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            2, 
+            3
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 11, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                24, 
+                31
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 24, 
+                "phraseID": 17
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 31, 
+                "phraseID": 21
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "2962"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "2962", 
+        "phraseIDs": [
+            1, 
+            3, 
+            7, 
+            9, 
+            17, 
+            21
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 12, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                3, 
+                4, 
+                7, 
+                16, 
+                21
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 4
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 21, 
+                "phraseID": 16
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 16, 
+                "phraseID": 5
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "13377"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "13377", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            4, 
+            5, 
+            7, 
+            16
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            2, 
+            3
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 13, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                33, 
+                7
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 4
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 5, 
+                "phraseID": 5
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 33, 
+                "phraseID": 16
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "19880"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "19880", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            4, 
+            5, 
+            7, 
+            16
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            2, 
+            3
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 5, 
+        "error_vector": [
+            true
+        ], 
+        "id": 14, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                21, 
+                24
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 24, 
+                "phraseID": 17
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 21, 
+                "phraseID": 16
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "16175", 
+            "5545", 
+            "4422", 
+            "4888", 
+            "12389"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "16175", 
+        "phraseIDs": [
+            1, 
+            3, 
+            7, 
+            9, 
+            16, 
+            17
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 15, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                11, 
+                35
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 11, 
+                "phraseID": 10
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 35, 
+                "phraseID": 22
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "16985"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "16985", 
+        "phraseIDs": [
+            1, 
+            3, 
+            7, 
+            9, 
+            10, 
+            22
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 16, 
+        "lineIDs": {
+            "list": [
+                1, 
+                36, 
+                37, 
+                7, 
+                9, 
+                10, 
+                24
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 24, 
+                "phraseID": 17
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 36, 
+                "phraseID": 23
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 10, 
+                "phraseID": 24
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 37, 
+                "phraseID": 25
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 26
+            }
+        ], 
+        "members": [
+            "796"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "796", 
+        "phraseIDs": [
+            1, 
+            9, 
+            17, 
+            23, 
+            24, 
+            25, 
+            26
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            4, 
+            7
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 17, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                3, 
+                5, 
+                38, 
+                39, 
+                9, 
+                7, 
+                24, 
+                25
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 24, 
+                "phraseID": 17
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 27
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 5, 
+                "phraseID": 12
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 25, 
+                "phraseID": 28
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 38, 
+                "phraseID": 27
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 39, 
+                "phraseID": 14
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "12693"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "12693", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            7, 
+            12, 
+            14, 
+            17, 
+            27, 
+            28
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            2, 
+            3, 
+            4, 
+            5
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 18, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                9, 
+                29
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 29
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 5, 
+                "phraseID": 30
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 31
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 6, 
+                "phraseID": 32
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 29, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "11788"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "11788", 
+        "phraseIDs": [
+            32, 
+            1, 
+            2, 
+            3, 
+            7, 
+            29, 
+            30, 
+            31
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            2, 
+            3
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 19, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                3, 
+                4, 
+                7, 
+                10, 
+                16
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 4
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 10, 
+                "phraseID": 6
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 16, 
+                "phraseID": 5
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "21400"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "21400", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            4, 
+            5, 
+            6, 
+            7
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            2, 
+            3
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 20, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                4, 
+                7, 
+                10, 
+                24
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 24, 
+                "phraseID": 17
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 4
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 10, 
+                "phraseID": 6
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "15642"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "15642", 
+        "phraseIDs": [
+            1, 
+            3, 
+            4, 
+            6, 
+            7, 
+            17
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 4, 
+        "error_vector": [
+            true
+        ], 
+        "id": 21, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                4, 
+                9, 
+                45, 
+                16, 
+                17, 
+                19
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 29
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 16, 
+                "phraseID": 30
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 17, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 33
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 45, 
+                "phraseID": 6
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 19, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "8549", 
+            "9441", 
+            "4206", 
+            "7227"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "8549", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            6, 
+            33, 
+            7, 
+            29, 
+            30
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            2, 
+            3
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 22, 
+        "lineIDs": {
+            "list": [
+                24, 
+                1, 
+                46, 
+                7
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 24, 
+                "phraseID": 17
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 46, 
+                "phraseID": 34
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 19
+            }
+        ], 
+        "members": [
+            "16685"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "16685", 
+        "phraseIDs": [
+            1, 
+            34, 
+            19, 
+            17
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            4, 
+            6
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 3, 
+        "error_vector": [
+            true
+        ], 
+        "id": 23, 
+        "lineIDs": {
+            "list": [
+                1, 
+                20, 
+                46, 
+                7
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 20, 
+                "phraseID": 15
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 46, 
+                "phraseID": 34
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 19
+            }
+        ], 
+        "members": [
+            "22894", 
+            "1870", 
+            "16735"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "22894", 
+        "phraseIDs": [
+            1, 
+            34, 
+            19, 
+            15
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            4, 
+            6
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 24, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                35, 
+                24
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 24, 
+                "phraseID": 17
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 35, 
+                "phraseID": 22
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "12777"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "12777", 
+        "phraseIDs": [
+            1, 
+            3, 
+            7, 
+            9, 
+            17, 
+            22
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 25, 
+        "lineIDs": {
+            "list": [
+                1, 
+                7, 
+                46, 
+                49
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 49, 
+                "phraseID": 35
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 46, 
+                "phraseID": 34
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 19
+            }
+        ], 
+        "members": [
+            "9961"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "9961", 
+        "phraseIDs": [
+            19, 
+            1, 
+            34, 
+            35
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            4, 
+            6
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 2, 
+        "error_vector": [
+            true
+        ], 
+        "id": 26, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                11, 
+                21
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 11, 
+                "phraseID": 10
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 21, 
+                "phraseID": 16
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "4097", 
+            "6305"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "4097", 
+        "phraseIDs": [
+            1, 
+            3, 
+            7, 
+            9, 
+            10, 
+            16
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 27, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                9, 
+                50, 
+                29
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 29
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 5, 
+                "phraseID": 30
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 31
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 50, 
+                "phraseID": 36
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 29, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "2353"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "2353", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            36, 
+            7, 
+            29, 
+            30, 
+            31
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            2, 
+            3
+        ]
+    }, 
+    {
+        "correct": true, 
+        "count": 1, 
+        "error_vector": [
+            true
+        ], 
+        "id": 28, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                3, 
+                4, 
+                9, 
+                51, 
+                27, 
+                29
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 29
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 27, 
+                "phraseID": 37
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 31
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 51, 
+                "phraseID": 32
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 29, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "14583"
+        ], 
+        "num_passed_tests": 1, 
+        "number": "14583", 
+        "phraseIDs": [
+            32, 
+            1, 
+            2, 
+            3, 
+            37, 
+            7, 
+            29, 
+            31
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "820\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            2, 
+            3
+        ]
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 29, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                12, 
+                13, 
+                14, 
+                15
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 12, 
+                "phraseID": 38
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 13, 
+                "phraseID": 39
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 14, 
+                "phraseID": 40
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 15, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "9258"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "9258", 
+        "phraseIDs": [
+            1, 
+            3, 
+            38, 
+            7, 
+            40, 
+            39
+        ], 
+        "test_input_outputs": {
+            "print(solution())": ""
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            8, 
+            9
+        ]
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 30, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                20, 
+                22, 
+                23
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 20, 
+                "phraseID": 15
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 22, 
+                "phraseID": 41
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 23, 
+                "phraseID": 42
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "2497"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "2497", 
+        "phraseIDs": [
+            1, 
+            3, 
+            7, 
+            41, 
+            42, 
+            15
+        ], 
+        "test_input_outputs": {
+            "print(solution())": ""
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            10, 
+            4
+        ]
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 31, 
+        "lineIDs": {
+            "list": [
+                1, 
+                2, 
+                3, 
+                4, 
+                9, 
+                27, 
+                28, 
+                29
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 2, 
+                "phraseID": 2
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 43
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 27, 
+                "phraseID": 44
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 33
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 28, 
+                "phraseID": 45
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 29, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "6172"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "6172", 
+        "phraseIDs": [
+            1, 
+            2, 
+            3, 
+            33, 
+            43, 
+            44, 
+            45, 
+            7
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "1640\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            2, 
+            11
+        ]
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 32, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                8, 
+                9, 
+                21
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 8, 
+                "phraseID": 8
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 21, 
+                "phraseID": 16
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 46
+            }
+        ], 
+        "members": [
+            "17999"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "17999", 
+        "phraseIDs": [
+            1, 
+            3, 
+            8, 
+            9, 
+            46, 
+            16
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "40\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            3, 
+            4
+        ]
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 33, 
+        "lineIDs": {
+            "list": [
+                32, 
+                1, 
+                15
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 32, 
+                "phraseID": 47
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 15, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "13822"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "13822", 
+        "phraseIDs": [
+            1, 
+            7, 
+            47
+        ], 
+        "test_input_outputs": {
+            "print(solution())": ""
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            12
+        ]
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 34, 
+        "lineIDs": {
+            "list": [
+                1, 
+                34, 
+                3, 
+                33, 
+                9, 
+                7, 
+                20
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 20, 
+                "phraseID": 15
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 34, 
+                "phraseID": 48
+            }, 
+            {
+                "indent": 12, 
+                "line_obj_ID": 33, 
+                "phraseID": 16
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "19174"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "19174", 
+        "phraseIDs": [
+            1, 
+            3, 
+            16, 
+            7, 
+            9, 
+            15, 
+            48
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "63\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            4, 
+            13
+        ]
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 35, 
+        "lineIDs": {
+            "list": [
+                1, 
+                40, 
+                41, 
+                42, 
+                43, 
+                44, 
+                15
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 40, 
+                "phraseID": 49
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 41, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 42, 
+                "phraseID": 50
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 43, 
+                "phraseID": 51
+            }, 
+            {
+                "indent": 12, 
+                "line_obj_ID": 44, 
+                "phraseID": 52
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 15, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "17419"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "17419", 
+        "phraseIDs": [
+            1, 
+            3, 
+            7, 
+            49, 
+            50, 
+            51, 
+            52
+        ], 
+        "test_input_outputs": {
+            "print(solution())": ""
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": []
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 36, 
+        "lineIDs": {
+            "list": [
+                1, 
+                15, 
+                4, 
+                25
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 4, 
+                "phraseID": 43
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 25, 
+                "phraseID": 53
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 15, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "3258"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "3258", 
+        "phraseIDs": [
+            1, 
+            43, 
+            53, 
+            7
+        ], 
+        "test_input_outputs": {
+            "print(solution())": ""
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1
+        ]
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 37, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                9, 
+                47, 
+                48, 
+                20
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 20, 
+                "phraseID": 15
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 27
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 47, 
+                "phraseID": 54
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 48, 
+                "phraseID": 55
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "3473"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "3473", 
+        "phraseIDs": [
+            1, 
+            3, 
+            7, 
+            15, 
+            54, 
+            55, 
+            27
+        ], 
+        "test_input_outputs": {
+            "print(solution())": ""
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            16, 
+            4, 
+            14, 
+            15
+        ]
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 38, 
+        "lineIDs": {
+            "list": [
+                1, 
+                3, 
+                7, 
+                8, 
+                9, 
+                21
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 8, 
+                "phraseID": 8
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 3, 
+                "phraseID": 3
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 9
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 21, 
+                "phraseID": 56
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 7
+            }
+        ], 
+        "members": [
+            "8300"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "8300", 
+        "phraseIDs": [
+            1, 
+            3, 
+            7, 
+            8, 
+            9, 
+            56
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "0\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            1, 
+            4, 
+            17
+        ]
+    }, 
+    {
+        "correct": false, 
+        "count": 1, 
+        "error_vector": [
+            false
+        ], 
+        "id": 39, 
+        "lineIDs": {
+            "list": [
+                1, 
+                6, 
+                7, 
+                9, 
+                52, 
+                24
+            ], 
+            "type": "set"
+        }, 
+        "lines": [
+            {
+                "indent": 0, 
+                "line_obj_ID": 1, 
+                "phraseID": 1
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 24, 
+                "phraseID": 17
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 9, 
+                "phraseID": 57
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 6, 
+                "phraseID": 58
+            }, 
+            {
+                "indent": 8, 
+                "line_obj_ID": 52, 
+                "phraseID": 59
+            }, 
+            {
+                "indent": 4, 
+                "line_obj_ID": 7, 
+                "phraseID": 19
+            }
+        ], 
+        "members": [
+            "12307"
+        ], 
+        "num_passed_tests": 0, 
+        "number": "12307", 
+        "phraseIDs": [
+            1, 
+            17, 
+            19, 
+            57, 
+            58, 
+            59
+        ], 
+        "test_input_outputs": {
+            "print(solution())": "80\n"
+        }, 
+        "testcases": [
+            "print(solution())"
+        ], 
+        "total_num_tests": 1, 
+        "variableIDs": [
+            18, 
+            19, 
+            4
+        ]
+    }
+]
